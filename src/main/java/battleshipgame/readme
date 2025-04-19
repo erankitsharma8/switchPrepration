@@ -1,0 +1,13 @@
+
+
+
+Requirement gathering:-
+N*N -> N from user's input
+Location of ship -> User's Input
+One coordinate should get one missle throughout the game
+
+* APIs Required:-
+initGame(N) : half divided b/w A & B
+addShip(X&B's Positions)
+startGame(): If hit print hit else miss after each step.
+viewField(): For after each step print this.
