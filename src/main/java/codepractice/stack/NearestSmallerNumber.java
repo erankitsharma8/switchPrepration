@@ -8,7 +8,7 @@ public class NearestSmallerNumber {
         if(null==arr || arr.length==0)
             System.out.println("Invalid Input");
         int n=arr.length;
-        Stack<Integer> st=new Stack();
+        Stack<Integer> st=new Stack<>();
         st.push(arr[0]);
         int[] res=new int[n];
         res[0]=-1;
