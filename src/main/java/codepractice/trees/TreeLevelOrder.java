@@ -1,6 +1,5 @@
 package codepractice.trees;
 
-import codepractice.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;
