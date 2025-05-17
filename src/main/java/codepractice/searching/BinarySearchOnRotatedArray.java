@@ -1,4 +1,4 @@
-package interviewcode;
+package codepractice.searching;
 
 /*
 3,4,5,7,9,2,10,11,13,12

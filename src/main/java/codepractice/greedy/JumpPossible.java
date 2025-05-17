@@ -1,4 +1,4 @@
-package codepractice;
+package codepractice.greedy;
 
 public class JumpPossible {
 

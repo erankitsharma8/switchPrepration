@@ -1,4 +1,4 @@
-package codepractice;
+package codepractice.trees;
 
 class Node{
     int data;

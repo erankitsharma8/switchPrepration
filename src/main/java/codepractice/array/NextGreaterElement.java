@@ -1,4 +1,4 @@
-package interviewcode;
+package codepractice.array;
 
 
 /*

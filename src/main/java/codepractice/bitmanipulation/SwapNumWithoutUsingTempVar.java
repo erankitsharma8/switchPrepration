@@ -1,4 +1,4 @@
-package codepractice;
+package codepractice.bitmanipulation;
 
 public class SwapNumWithoutUsingTempVar {
     public static void main(String[] args) {

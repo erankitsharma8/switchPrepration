@@ -1,4 +1,4 @@
-package interviewcode;
+package codepractice.stack;
 
 /*
 Given a string S, find the length of the longest balanced subsequence in it. A balanced string is defined as:-
